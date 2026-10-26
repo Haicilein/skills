@@ -150,7 +150,9 @@ Für Bilder und Videos mit Heike wird eine Soul Character Identität genutzt
 (Skill higgsfield-soul-id). Die reference_id trägt Heike nach dem Training hier
 ein:
 
-`SOUL_ID_HEIKE = <noch offen>`
+`SOUL_ID_HEIKE = ba8ae231-2968-4375-a27d-8df8d54935a8` (Name: Heike Flüsterfee, Typ soul_2)
+
+Nutzbar mit den Modellen `soul_2` und `soul_cinematic`.
 
 Darstellung: souverän, zugewandt, lächelnd, im Arbeitskontext. Nie als
 Technikerin vor Bildschirmwänden. Alter ist Teil der Marke und wird nie als
