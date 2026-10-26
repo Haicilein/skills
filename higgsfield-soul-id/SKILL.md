@@ -18,6 +18,9 @@ allowed-tools: Bash
 
 # Higgsfield Soul Character
 
+> **AI Flüsterfee Fork.** Vor der ersten Generierung `../fluesterfee-brand/SKILL.md` lesen und anwenden. Die Markenvorgaben dort gehen den Standardvorgaben dieses Skills vor: Bildsprache, Farben, Formate, Texte im Bild auf Deutsch ohne Bindestriche, Vertonung auf Deutsch mit Du. Nach dem Training die reference_id in `../fluesterfee-brand/SKILL.md` unter SOUL_ID_HEIKE eintragen.
+
+
 Train a face-faithful identity model. Reusable across all Soul-powered generations.
 
 ## Step 0 — Bootstrap
