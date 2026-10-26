@@ -11,6 +11,9 @@ allowed-tools: Bash
 
 # Higgsfield website builder (CLI) — three product types, three flows
 
+> **AI Flüsterfee Fork.** Vor der ersten Generierung `../fluesterfee-brand/SKILL.md` lesen und anwenden. Die Markenvorgaben dort gehen den Standardvorgaben dieses Skills vor: Bildsprache, Farben, Formate, Texte im Bild auf Deutsch ohne Bindestriche, Vertonung auf Deutsch mit Du. Seiten im editorial Stil der Flüsterfee bauen, Schriften Tenor Sans und Jost, Farben aus der Markendatei.
+
+
 You drive the whole lifecycle through the **Higgsfield CLI** (`higgsfield
 website …`), then edit code on the local filesystem with `git` + `bun`. You are
 building ONE per-website Cloudflare Worker: a **React 19 + TanStack Start** app,
