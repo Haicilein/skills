@@ -26,6 +26,9 @@ allowed-tools: Bash
 
 # Higgsfield Generate
 
+> **AI Flüsterfee Fork.** Vor der ersten Generierung `../fluesterfee-brand/SKILL.md` lesen und anwenden. Die Markenvorgaben dort gehen den Standardvorgaben dieses Skills vor: Bildsprache, Farben, Formate, Texte im Bild auf Deutsch ohne Bindestriche, Vertonung auf Deutsch mit Du. Standardformat für LinkedIn ist 4:5. Bei Bildern mit Heike die Soul ID aus der Markendatei nutzen.
+
+
 Submit jobs to any Higgsfield model. Wraps the `higgsfield` CLI. Covers generic image/video/3D/audio generation, Marketing Studio (branded ads, avatars, products, hooks, settings), and, secondarily, Virality Predictor video scoring.
 
 ## Step 0 — Bootstrap
