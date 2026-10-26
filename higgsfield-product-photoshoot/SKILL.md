@@ -24,6 +24,9 @@ allowed-tools: Bash
 
 # Product Photoshoot
 
+> **AI Flüsterfee Fork.** Vor der ersten Generierung `../fluesterfee-brand/SKILL.md` lesen und anwenden. Die Markenvorgaben dort gehen den Standardvorgaben dieses Skills vor: Bildsprache, Farben, Formate, Texte im Bild auf Deutsch ohne Bindestriche, Vertonung auf Deutsch mit Du. Das Produkt ist meist ein Programm, ein Workbook, eine Vorlage oder ein Format wie der KI Talk. Bevorzugte Modi: lifestyle_scene, hero_banner, social_carousel.
+
+
 Brand-image generation via the `higgsfield product-photoshoot create` command. The CLI calls a backend prompt enhancer that holds mode-specific photography vocabulary and structural templates, then submits to `gpt_image_2` and returns image URLs.
 
 ## Step 0 — Bootstrap
