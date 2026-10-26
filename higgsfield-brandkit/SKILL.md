@@ -9,6 +9,9 @@ allowed-tools: Bash
 
 # Higgsfield Brandkit
 
+> **AI Flüsterfee Fork.** Vor der ersten Generierung `../fluesterfee-brand/SKILL.md` lesen und anwenden. Die Markenvorgaben dort gehen den Standardvorgaben dieses Skills vor: Bildsprache, Farben, Formate, Texte im Bild auf Deutsch ohne Bindestriche, Vertonung auf Deutsch mit Du. Die Marke AI Flüsterfee steht fest: Farben, Schriften und Wortmarke aus der Markendatei sind gesetzt und werden nur erweitert, nie neu erfunden.
+
+
 Build a coherent identity and its requested applications. Treat supplied brand facts and official assets as fixed constraints.
 
 ## Bootstrap
