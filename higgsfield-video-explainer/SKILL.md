@@ -18,6 +18,9 @@ allowed-tools: Bash
 
 # Higgsfield Video Explainer
 
+> **AI Flüsterfee Fork.** Vor der ersten Generierung `../fluesterfee-brand/SKILL.md` lesen und anwenden. Die Markenvorgaben dort gehen den Standardvorgaben dieses Skills vor: Bildsprache, Farben, Formate, Texte im Bild auf Deutsch ohne Bindestriche, Vertonung auf Deutsch mit Du. Sprache Deutsch, ruhiger Erzählton, Stil hell und editorial in Off White, Navy und einem Magenta Akzent.
+
+
 Run the MCP video-explainer workflow through Higgsfield CLI. Lock one visual style key, write one narration line and one matching visual prompt per 10-second block, generate every voice take first, generate every clip second, then immediately assemble the ordered pairs with `explainer_video`.
 
 Never use the monolithic `video_explainer` job in this skill.
