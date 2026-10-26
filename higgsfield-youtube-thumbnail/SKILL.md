@@ -9,6 +9,9 @@ allowed-tools: Bash
 
 # Higgsfield YouTube Thumbnail
 
+> **AI Flüsterfee Fork.** Vor der ersten Generierung `../fluesterfee-brand/SKILL.md` lesen und anwenden. Die Markenvorgaben dort gehen den Standardvorgaben dieses Skills vor: Bildsprache, Farben, Formate, Texte im Bild auf Deutsch ohne Bindestriche, Vertonung auf Deutsch mit Du. YouTube ist kein Kanal der Flüsterfee. Diesen Skill für Cover von LinkedIn Videos, KI Talk Ankündigungen und Aufzeichnungen nutzen, im Format 4:5 oder 16:9, ohne Clickbait und ohne grelle Effekte.
+
+
 Create a clean thumbnail concept, generate each variant through the `higgsfield` CLI, inspect it, and make only requested surgical edits.
 
 ## Bootstrap
